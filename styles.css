@@ -1,0 +1,106 @@
+/* Import fonts */
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  background-color: #fff3e1;
+}
+
+section {
+  width: 100vw;
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+header {
+  position: fixed;
+  top: 20px;
+  left: 20px;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+footer {
+  width: 100vw;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  text-align: right;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color: #fe67da;
+}
+
+/* Background images */
+
+.blank {
+  background-image: url(assets/Blank.png);
+}
+.image-1 {
+  background-image: url(assets/1.png);
+}
+.image-2 {
+  background-image: url(assets/2.png);
+}
+.image-3 {
+  background-image: url(assets/3.png);
+}
+.image-4 {
+  background-image: url(assets/4.png);
+}
+.image-5 {
+  background-image: url(assets/5.png);
+}
+.image-6 {
+  background-image: url(assets/6.png);
+}
+.image-7 {
+  background-image: url(assets/7.png);
+}
+.image-8 {
+  background-image: url(assets/8.png);
+}
+.image-9 {
+  background-image: url(assets/9.png);
+}
+.image-10 {
+  background-image: url(assets/10.png);
+}
+.image-11 {
+  background-image: url(assets/11.png);
+}
+.image-12 {
+  background-image: url(assets/12.png);
+}
+.image-13 {
+  background-image: url(assets/13.png);
+}
+.image-14 {
+  background-image: url(assets/14.png);
+}
+.image-15 {
+  background-image: url(assets/15.png);
+}
+.image-16 {
+  background-image: url(assets/16.png);
+}
+.image-17 {
+  background-image: url(assets/17.png);
+}
+.image-18 {
+  background-image: url(assets/18.png);
+}
+.image-19 {
+  background-image: url(assets/19.png);
+}
